@@ -3,12 +3,12 @@ html {
   background-color: #fff;
 }
 
-*::before *::after {
+*, *::before, *::after {
   box-sizing: inherit;
 }
 
 body {
-  background-color #ccc;
+  background-color: #ccc;
   font-family:sans-serif;
 }
 
