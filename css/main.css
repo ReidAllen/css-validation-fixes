@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  background-color: #fff;
+    background-color: #fff;
 }
 
 *, *::before, *::after {
@@ -9,7 +9,7 @@ html {
 
 body {
   background-color: #ccc;
-  font-family:sans-serif;
+    font-family: sans-serif;
 }
 
 h1 {
@@ -18,5 +18,5 @@ h1 {
 
 article {
   font-style: italic;
-  color: #666;
+    color: #666;
 }
